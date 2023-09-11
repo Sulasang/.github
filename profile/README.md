@@ -1,5 +1,6 @@
 ## 수라상 - 수원대학교 공식 학식 정보 플랫폼
 
+
 <img width="222" alt="KakaoTalk_Photo_2023-09-11-23-23-14" src="https://github.com/Sulasang/.github/assets/60564431/7c6091d7-aee6-41e3-bc5d-966b16f21449">
 
 ## 기여한 사람
